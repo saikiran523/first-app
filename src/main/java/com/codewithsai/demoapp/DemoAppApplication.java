@@ -18,6 +18,6 @@ class HelloController {
 
     @GetMapping("/")
     public String home() {
-        return "this is suning properly .";
+        return "ok i know the concept very well i am prepaing evrything in a good manner.";
     }
 }
