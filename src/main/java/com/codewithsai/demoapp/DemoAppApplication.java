@@ -18,6 +18,6 @@ class HelloController {
 
     @GetMapping("/")
     public String home() {
-        return "Hello GitHub! My Spring Boot App is Running.";
+        return "this is suning properly .";
     }
 }
