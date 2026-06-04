@@ -18,6 +18,6 @@ class HelloController {
 
     @GetMapping("/")
     public String home() {
-        return "ok i know the concept very well i am prepaing evrything in a good manner.";
+        return "hard work is the key to sucess the life of the real human so pls do the hard work and be sucussfull men.";
     }
 }
